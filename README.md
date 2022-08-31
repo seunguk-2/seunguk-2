@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on floods and droughts in the Midwest using 2L-DRM.
+- 📫 How to reach me: seunguk2@illinois.edu
+
 <!--
 **seunguk-2/seunguk-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
